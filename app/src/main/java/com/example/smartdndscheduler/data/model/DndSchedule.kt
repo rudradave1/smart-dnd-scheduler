@@ -1,6 +1,5 @@
 package com.example.smartdndscheduler.data.model
 
-import androidx.compose.runtime.Composable
 import java.util.UUID
 
 data class DndSchedule(

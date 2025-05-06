@@ -1,10 +1,8 @@
 package com.example.smartdndscheduler.domain
 
 import androidx.compose.runtime.Composable
+import com.example.smartdndscheduler.alarm.AlarmReceiver
 import com.example.smartdndscheduler.data.model.DndSchedule
-
-package com.smartdnd.domain
-
 import android.app.AlarmManager
 import android.app.PendingIntent
 import android.content.Context
