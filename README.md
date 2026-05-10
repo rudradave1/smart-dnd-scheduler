@@ -16,4 +16,4 @@ This Jetpack Compose Android app lets users schedule silent/DND mode automatical
 - Relies on AlarmManager (no WorkManager fallback)
 ---
 
-Built using **Jetpack Compose**, **Kotlin**, and modern Android practices. Ideal starter app to learn background task automation and permission handling.
+Built using **Jetpack Compose**, **Kotlin**, and modern Android practices. Demonstrates reliable background execution, system-level permission handling, and persistent scheduling on Android.
